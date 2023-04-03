@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💯 I’m currently learning programming, in second year (C#) at the Universidad Tecnologica Nacional (UTN). National Technological University in english.
 
 ### Programming Languages: 
- ![c](https://user-images.githubusercontent.com/98592579/229614610-acd6783e-6d77-481f-bd09-005808929415.png/relative%20path)
+ ![c](relative%20path/https://user-images.githubusercontent.com/98592579/229614610-acd6783e-6d77-481f-bd09-005808929415.png)
 ![c#](https://user-images.githubusercontent.com/98592579/229614628-515253e7-34a3-47e0-8278-e2bdb9b07d4c.png)
